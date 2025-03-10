@@ -10,6 +10,7 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
+  <button>클릭</button>
 </template>
 
 <style scoped>
