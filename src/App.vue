@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <HelloWorld msg="안녕하세요" />
+  <HelloWorld msg="안녕하세요222" />
 </template>
 
 <style scoped>
